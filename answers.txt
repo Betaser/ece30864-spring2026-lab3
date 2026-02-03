@@ -17,3 +17,5 @@ c) The 3 types of meetings that happen during a sprint cycle are:
 - Sprint retrospective meeting
   - Occurs at the end of the sprint
   - Discusses what work was completed and moves incomplete work to backlog
+
+d) An Epic in JIRA is the topmost issue, which will usually contain stories as child issues. It is the largest body of work. A Story indicates a smaller issue which has associated story points, which estimate the relative complexity of a story. A Story can summarize a software system requirement in a few sentences. A Bug in JIRA is the smallest unit of work, and blocks other issues. It represents some issue that has arisen preventing further development in select units of work. Finally, a Task in JIRA represents work that needs to be done.  
