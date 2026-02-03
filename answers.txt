@@ -4,3 +4,5 @@ a) Pros of Agile development:
 Cons of Agile development:
 - Potential for scope creep
 - Documentation tends to be weaker than for waterfall development
+
+b) Scrum Master manages all tasks related to scrum development. This includes managing JIRA projects and facilitating sprints, meetings. The Product Owner acts like a bridge between developers and customers. This means they are in change of releases, managing stakeholders, and setting objectives for the team.
