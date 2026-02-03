@@ -6,3 +6,14 @@ Cons of Agile development:
 - Documentation tends to be weaker than for waterfall development
 
 b) Scrum Master manages all tasks related to scrum development. This includes managing JIRA projects and facilitating sprints, meetings. The Product Owner acts like a bridge between developers and customers. This means they are in change of releases, managing stakeholders, and setting objectives for the team.
+
+c) The 3 types of meetings that happen during a sprint cycle are:
+- Sprint planning meeting
+  - Determines what needs to be completed in the coming sprint
+  - Moves stories from backlog into the current sprint
+- Daily Scrum/Standup meeting
+  - Team members discuss what work was completed, the work plan for the day, and any blockers
+  - Usually 10 min long
+- Sprint retrospective meeting
+  - Occurs at the end of the sprint
+  - Discusses what work was completed and moves incomplete work to backlog
