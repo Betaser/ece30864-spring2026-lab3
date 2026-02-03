@@ -1,0 +1,6 @@
+a) Pros of Agile development:
+- Constantly up-to-date with customer requirements
+- More resilient to changes in project scope
+Cons of Agile development:
+- Potential for scope creep
+- Documentation tends to be weaker than for waterfall development
